@@ -4,7 +4,7 @@
       <div class="flex justify-between items-start">
         <!-- Header logo -->
         <div>
-          <a class="text-white text-sm lg:text-xl xl:text-3xl font-homemade">Ferienwohnung Zörner</a>
+          <a class="text-white text-2xl xl:text-3xl font-homemade">Ferienwohnung Zörner</a>
         </div>
         
         <!-- Mobile toggle -->

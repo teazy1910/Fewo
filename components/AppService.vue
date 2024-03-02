@@ -53,7 +53,7 @@
           </p>
         </div>
 
-        <div class="my-2 mx-2 bg-[#4E5F4B] p-8">
+        <div class="my-2 mx-2 bg-[#4E5F4B] p-8 mb-12">
           <Icon icon="la:mountain" class="w-10 h-10 m-auto md:my-2" />
           <h2 class="md:text-xl my-3 text-center font-playfair">Gästekarte und Mobilität</h2>
           <p class="md:text-lg text-sm p-3 font-raleway">
