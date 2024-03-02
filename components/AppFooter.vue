@@ -29,7 +29,7 @@
           <li>
             <NuxtLink to="/impressum">Impressum</NuxtLink>
           </li>
-          <a href="/about">Über uns</a>
+          <a href="#about">Über uns</a>
           <NuxtLink to="/datenschutz" >Datenschutz</NuxtLink>
           </ul>
         </div>
