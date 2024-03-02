@@ -4,7 +4,7 @@
         <h2 class="font-raleway text-lg md:text-xl my-8 md:text-left ">
           Grüß Gott im Bergsteigerdorf <br> Ramsau bei Berchtesgaden
         </h2>
-        <h1 class="md:text-left text-2xl font-semibold font-playfair md:text-4xl lg:text-6xl md:mb-12 mb-10">
+        <h1 class="md:text-left text-2xl font-playfair md:text-4xl lg:text-6xl md:mb-12 mb-10">
           Genießen Sie Ihre <br />
           Auszeit in der Natur.
         </h1>
