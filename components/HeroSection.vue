@@ -1,5 +1,5 @@
 <template>
-    <div id="home" class="mt-12 overflow-hidden min-h-screen flex xl:mt-20 justify-evenly items-center flex-col-reverse text-center md:flex-row">
+    <div id="home" class="mt-12 overflow-hidden min-h-screen flex xl:mt-10 justify-evenly items-center flex-col-reverse text-center md:flex-row">
       <div>
         <h2 class="font-raleway text-lg md:text-xl my-8 md:text-left ">
           Grüß Gott im Bergsteigerdorf <br> Ramsau bei Berchtesgaden
