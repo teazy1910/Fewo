@@ -1,7 +1,7 @@
 <template>
     <div id="home" class="mt-12 overflow-hidden min-h-screen flex xl:mt-10 justify-evenly items-center flex-col-reverse text-center md:flex-row">
       <div>
-        <h2 class="font-raleway text-lg md:text-xl my-8 md:text-left ">
+        <h2 class="font-raleway text-lg md:text-xl my-8 md:text-left">
           Grüß Gott im Bergsteigerdorf <br> Ramsau bei Berchtesgaden
         </h2>
         <h1 class="md:text-left text-2xl font-playfair md:text-4xl lg:text-6xl md:mb-12 mb-10">
@@ -17,7 +17,7 @@
       </div>
       </div>
       <div class="mt-24 md:mt-8 md:w-[50%] w-[70%] shadow-slate-400 shadow-2xl">
-        <img src="/Hausansicht_Berg-Back.jpg" alt="Hausansicht mit Berg im Hintergrund">
+        <img src="/Hausansicht_Berg-Back.jpg" alt="Hausansicht mit Berg im Hintergrund" class="rounded-xl">
       </div>
     </div>
   </template>
