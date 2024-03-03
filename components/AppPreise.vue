@@ -3,9 +3,9 @@
       <h1 class="font-playfair text-center m-auto font-bold text-2xl md:text-4xl">
              Preisliste pro Übernachtung
             </h1>
-        <h3 class="text-center text-lg py-3 font-playfair">Saison 2024</h3>
+      <h3 class="text-center py-3 font-playfair">Saison 2024</h3>
       <div class="flex justify-center font-raleway">
-        <div class="flex xl:flex-row flex-col justify-center">
+        <div class="flex xl:flex-row flex-col items-baseline">
          <div>
           <table class="mb-7 md:mx-5 text-[#4E5F4B] shadow-lg shadow-slate-600">
             <thead class="text-sm md:text-xl">
@@ -57,10 +57,10 @@
           </table>
         </div>
   
-          <div class="flex flex-col xl:ml-12 md:p-6 bg-[#4e5f4b] md:mx-2 text-white rounded-lg shadow-xl shadow-slate-600">
+          <div class="flex flex-col justify-center xl:ml-12 md:p-6 bg-[#4e5f4b] md:mx-2 text-white rounded-lg shadow-xl shadow-slate-600">
             <h1 class="md:text-xl text-lg self-center mb-2 font-playfair">Nebensaison</h1>
             <p class="md:text-lg self-center font-light">7. Januar bis 31. Mai</p>
-            <p class="md:text-lg self-center font-light md:pb-12">12. Oktober bis 24. Dezember
+            <p class="md:text-lg self-center font-light">12. Oktober bis 24. Dezember
             </p>
             <h1 class="md:text-xl text-lg self-center mb-2 font-playfair">Hauptsaison</h1>
             <p class="md:text-lg self-center font-light">1. Juni bis 11. Oktober</p>
